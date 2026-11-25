@@ -1,0 +1,25 @@
+{
+  "classes": [
+    "Premium_Mozawati_Date",
+    "Semi-Ripe_Mozawati_Date",
+    "Ungraded_Mozawati_Date",
+    "Unripe_Mozawati_Date"
+  ],
+  "class_to_idx": {
+    "Premium_Mozawati_Date": 0,
+    "Semi-Ripe_Mozawati_Date": 1,
+    "Ungraded_Mozawati_Date": 2,
+    "Unripe_Mozawati_Date": 3
+  },
+  "img_size": 224,
+  "mean": [
+    0.485,
+    0.456,
+    0.406
+  ],
+  "std": [
+    0.229,
+    0.224,
+    0.225
+  ]
+}

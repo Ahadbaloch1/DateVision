@@ -1,0 +1,14 @@
+# Only needed if you run the model server outside Google Colab.
+# Google Colab already provides torch and torchvision; the notebook installs the rest.
+torch
+torchvision
+fastapi
+uvicorn
+python-multipart
+pillow
+numpy
+matplotlib
+scikit-learn
+pyngrok
+nest_asyncio
+requests
